@@ -5,7 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:darkslategrey;
+
+  background-color: black;
   color: white;
 }
 
@@ -13,6 +14,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.contenedor {
-  color: red;
+
+a {
+  text-decoration: none;
+  color: white;
 }
